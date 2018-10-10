@@ -19,12 +19,7 @@
 
 ### 效果图展示
 <div >
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-104939.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105002.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105048.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105101.png" width="150" height="250" alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105112.png" width="150" height="250"  alt=""/>
-   <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105126.png" width="150" height="250"  alt=""/>
+   <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/cfc1dc652e8dd6a7424b22e6b28bf5e.png"   alt=""/>
 </div>
 
 

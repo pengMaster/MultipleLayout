@@ -7,6 +7,16 @@
   </a>
 </p>
 
+### 功能简介
+
+ - 正在加载数据
+ - 数据加载失败
+ - 数据加载为空
+ - 网络加载失败
+ - 重试点击事件
+ - 支持自定义布局
+
+
 ### 效果图展示
 <div >
     <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-104939.png" width="150" height="250"  alt=""/>
@@ -17,14 +27,7 @@
    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105126.png" width="150" height="250"  alt=""/>
 </div>
 
-### 功能简介
 
- - 正在加载数据
- - 数据加载失败
- - 数据加载为空
- - 网络加载失败
- - 重试点击事件
- - 支持自定义布局
 
 ### 最简单的使用方式
 

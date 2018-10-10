@@ -1,12 +1,13 @@
-# 最简单的状态切换布局
 
+<h1 align="center">最简单的状态切换布局</h1>
 
-#### 效果图
-<div>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/ezgif.com-video-to-gif.gif" width="150" height="250"  alt=""/>
-</div>
+<p align="center">
+  <a href="README.md">
+    <b>英文说明</b>
+  </a>
+</p>
 
-#### 效果图展示
+### 效果图展示
 <div >
     <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-104939.png" width="150" height="250"  alt=""/>
     <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105002.png" width="150" height="250"  alt=""/>
@@ -16,7 +17,7 @@
    <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultipleLayout/device-2018-10-10-105126.png" width="150" height="250"  alt=""/>
 </div>
 
-#### 功能简介
+### 功能简介
 
  - 正在加载数据
  - 数据加载失败
@@ -25,7 +26,7 @@
  - 重试点击事件
  - 支持自定义布局
 
-#### 最简单的使用方式
+### 最简单的使用方式
 
 1.Add it in your root build.gradle at the end of repositories:
 
@@ -95,7 +96,7 @@ allprojects {
 ```
 
 
-#### 扩展功能
+### 扩展功能
 
 1.自定义状态布局
 
@@ -130,9 +131,12 @@ allprojects {
         showNoNetwork(View view, ViewGroup.LayoutParams layoutParams)
 
 ```
+3.扩展
+```
+后续添加各种弹框
+```
 
-
-#### 参与贡献
+### 参与贡献
 
 1. Fork 本项目
 2. 新建 Feat_xxx 分支
@@ -140,6 +144,6 @@ allprojects {
 4. 新建 Pull Request
 
 
-#### github地址
+### github地址
 
  - 项目地址：https://github.com/pengMaster/MultipleLayout

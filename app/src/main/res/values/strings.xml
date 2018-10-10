@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultipleLayout</string>
+
+    <string name="no_data">数据为空</string>
+    <string name="load_error">加载失败</string>
+    <string name="loading">正在加载</string>
+    <string name="net_error">网络错误</string>
+    <string name="show_content">显示内容</string>
+    <string name="content">这是显示的内容</string>
+
+</resources>
